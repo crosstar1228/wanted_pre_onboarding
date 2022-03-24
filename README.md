@@ -13,11 +13,12 @@
     - 기업과제 3 수행 (문장유사도 분석 모델 API 구현)
     - 기업과제 4 수행 (뉴스기사 요약 모델링)
 
+
 ### Content  
 ---  
 1. 수강생 선발과제 : TF-IDF Vectorizer 구현
 2. [기업과제1](https://github.com/crosstar1228/wanted_pre_onboarding/blob/main/%5BWanted%5D%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C1_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A7%A4%EC%B9%AD%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.ipynb) : 문자열매칭알고리즘 구현
-3. [기업과제2](https://github.com/crosstar1228/wanted_pre_onboarding/blob/main/%5BWanted%5D%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B0%8F%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)(중요) : 데이터분석 및 시각화
+3. [기업과제2](https://github.com/crosstar1228/wanted_pre_onboarding/blob/main/%5BWanted%5D%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B0%8F%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) (중요) : 데이터분석 및 시각화
     - Youtube 인기동영상 dataset
    
    A. 시각화
@@ -27,3 +28,5 @@
    
    B. 상관분석 및 지표 개발
     - feature 별 correlation 분석 및 유의미한 지표 개발
+
+4. 
