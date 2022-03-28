@@ -3,7 +3,7 @@
 - `NLP with papers`, `Pytorch`, `API`
 
 ## 수행 내용
----
+
 ### 1주차) 
   - paperswithcode 활용하여 NLP 논문 및 데이터셋 리뷰 후 [블로그 포스팅](https://velog.io/@crosstar1228/series/wanted-NLP)하기
   - [텍스트 감성분석 모델링 계획 세우기 - docs](https://docs.google.com/document/d/1824t97wIs82ppoGU9dOqM6MH-Dbmphl6PdaWQ-jF3hQ/edit#heading=h.d25b9hvwaq62)
@@ -17,7 +17,7 @@
 
 
 ## Content  
----  
+
 1. 수강생 선발과제 : TF-IDF Vectorizer 구현
 2. [기업과제1](https://github.com/crosstar1228/wanted_pre_onboarding/blob/main/%5BWanted%5D%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C1_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A7%A4%EC%B9%AD%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.ipynb) : 문자열매칭알고리즘 구현
 ### 3. [기업과제2](https://github.com/crosstar1228/wanted_pre_onboarding/blob/main/%5BWanted%5D%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B0%8F%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) (중요) : 데이터분석 및 시각화
@@ -43,17 +43,5 @@
     - 결과물 분석
   - **[서버 API module[Repository]](https://github.com/crosstar1228/Semantic-Textual-Similarity-API)**
     
-### 5. [기업과제4](https://github.com/crosstar1228/wanted_pre_onboarding/tree/main/%5BWanted%5D%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C4_%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC%EC%9A%94%EC%95%BD%EB%AA%A8%EB%8D%B8%EB%A7%81)
-  - [보고서](https://github.com/crosstar1228/wanted_pre_onboarding/blob/main/%5BWanted%5D%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C4_%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC%EC%9A%94%EC%95%BD%EB%AA%A8%EB%8D%B8%EB%A7%81/Report/%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C4_2%ED%8C%80_%EB%A5%98%EC%A0%9C%EC%84%B1_%EA%B0%9C%EC%9D%B8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
-  - [기업과제4_2팀.ipynb](https://github.com/crosstar1228/wanted_pre_onboarding/blob/main/%5BWanted%5D%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C4_%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC%EC%9A%94%EC%95%BD%EB%AA%A8%EB%8D%B8%EB%A7%81/%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C4_2%ED%8C%80.ipynb): 
-    - 전처리 및 EDA
-    - Train,validation
-    - hyperparameter tuning 
-    - metric 개발
-    - metric 기반 testing
-    - 요약 결과 분석
-  - [metrics.py](https://github.com/crosstar1228/wanted_pre_onboarding/blob/main/%5BWanted%5D%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C4_%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC%EC%9A%94%EC%95%BD%EB%AA%A8%EB%8D%B8%EB%A7%81/metrics.py)
-    - `metric_embed` : SentenceTransformer 기반 의미적 유사도 Score
-    - `metric_rouge` : 형태소 기반 형태적 유사도 Score(Rouge f-1 Score)
-    - `metric` : `metric_embed` 과 `metric_rouge`의 평균
-  
+### 5. [기업과제4](https://github.com/crosstar1228/news_summarization_project)
+- private github으로 옮김
